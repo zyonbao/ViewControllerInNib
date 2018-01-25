@@ -29,6 +29,7 @@
 		2FBF07422019D11B00F598AE /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 		2FBF07432019D11C00F598AE /* ChildViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChildViewController.m; sourceTree = "<group>"; };
 		2FBF07442019D11C00F598AE /* ChildViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChildViewController.h; sourceTree = "<group>"; };
+		2FBF07472019D27300F598AE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		2FBF07202019D0E800F598AE = {
 			isa = PBXGroup;
 			children = (
+				2FBF07472019D27300F598AE /* README.md */,
 				2FBF072B2019D0E900F598AE /* ViewControllerInNib */,
 				2FBF072A2019D0E900F598AE /* Products */,
 			);
